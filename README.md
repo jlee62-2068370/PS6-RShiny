@@ -13,7 +13,7 @@ platforms like Facebook, Instagram, Twitter, Snapchat, and 'None'
 (if there is not any social media influence on shopping behavior)
 have an effect on a University student's shopping habits
 
-The application is broken down into 3 individual tabs:
+# The application is broken down into 3 individual tabs:
 
 ## About the Data
 
