@@ -13,6 +13,8 @@ platforms like Facebook, Instagram, Twitter, Snapchat, and 'None'
 (if there is not any social media influence on shopping behavior)
 have an effect on a University student's shopping habits
 
+[Link to Rshiny app](https://jordanlee.shinyapps.io/PS6-RShiny/)
+
 # The application is broken down into 3 individual tabs:
 
 ## About the Data
